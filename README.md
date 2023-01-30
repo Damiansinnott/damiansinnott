@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Damian Sinnott</h1>
+<h1 align="center">Hi, I'm Damian Sinnott</h1>
 <h3 align="center">A passionate frontend developer, game designer, security analyst, language creator and teacher from London</h3>
 
 - 🔭 I’m currently working on an educational RPG **GLA**
 
-- 👯 I’m looking to collaborate on GLA **GLA**
+- 👯 I’m looking to collaborate on **GLA**
 
 - 🤝 I’m looking for help with game development funding **GLA**
 
